@@ -4,9 +4,5 @@
 <br>Possui também configurações de responsividade para se adaptar em qualquer tela, sendo mobile ou desktop.</p>
 <br>
 <br>
-<h2>Abaixo a versão desktop :computer::</h2>
-<img src="https://github.com/tiagoLohan/easy-shopping/blob/main/assets/desktop.PNG?raw=true">
-<br>
-<h2>Abaixo a versão mobile :iphone::</h2>
-<img src="https://github.com/tiagoLohan/easy-shopping/blob/main/assets/mobile.PNG?raw=true">
-
+<h2>Abaixo as versões desktop :computer: e mobile :iphone::</h2>
+<img src="https://github.com/tiagoLohan/easy-shopping/blob/main/assets/projeto1-telas.png?raw=true">
